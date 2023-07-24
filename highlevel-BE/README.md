@@ -128,14 +128,6 @@ curl --location --request GET 'highlevel-backend-1ndk.onrender.com/api/transacti
 }'
 ```
 
-## Changes required before deploying it to production:
-
-    - Instead of using express.js we can use Nest.js to implement the more robust system.
-    - Authentication system must be implemented.
-    - Implementation of logging system.
-    - User management system should also be implemented.
-    - More test case should be implemented.
-
 
 
 ## Database
